@@ -1,5 +1,5 @@
 # CanuckWeb v1.00
-**History made on 320 kilobytes.**
+**History made on 512 kilobytes.**
 
 The first web browser running on an ESP32-S3 microcontroller. Searches DuckDuckGo, fetches live pages, follows links, keeps history. Real browser. $30 device.
 
